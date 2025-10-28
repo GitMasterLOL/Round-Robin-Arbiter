@@ -4,7 +4,7 @@ This directory contains all reference material, design documentation, and analys
 
 ---
 
-## 📚 Contents
+## Contents
 
 | File | Description |
 |------|--------------|
@@ -12,5 +12,3 @@ This directory contains all reference material, design documentation, and analys
 | **`architecture.md`** | Design overview, block diagrams, and data flow |
 | **`design_notes.md`** | Informal notes, experiments, and design iterations |
 | **`images/`** | Block diagrams, FSMs, and waveform captures used across documentation |
-
----
